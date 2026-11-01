@@ -1,0 +1,8 @@
+# Format: MC|points|question|opt1;opt2;opt3|correctNumber   TF|points|question|true   ID|points|question|answer
+TITLE|OOP Basics
+MC|2|Which pillar hides internal data behind getters/setters?|Inheritance;Encapsulation;Polymorphism;Abstraction|2
+MC|2|Which keyword creates a subclass?|implements;extends;super;this|2
+TF|1|An abstract class can be instantiated directly.|false
+TF|1|Method overriding is an example of runtime polymorphism.|true
+ID|3|What interface marks a Java class as serializable?|Serializable
+ID|2|Which pillar lets a class reuse another class's fields and methods?|Inheritance
