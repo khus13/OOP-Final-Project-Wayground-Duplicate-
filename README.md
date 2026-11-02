@@ -1,4 +1,8 @@
 # Notes for everyone
+## Names
+
+![Uploading image.png…]()
+
 ## We need to add more features:
 1. *AI support* to generate flashcards automatically based on lessons
 2. More quiz types -- T/F, flashcards, identification
